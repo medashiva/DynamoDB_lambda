@@ -4,6 +4,8 @@ IT'S JUST FOR FUTURE REFERENCE.
 DynamoDb 
 
 usefull links
+
+
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Scan.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Query.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.04.html
